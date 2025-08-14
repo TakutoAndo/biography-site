@@ -2,7 +2,7 @@
 
 import { Skill } from "@/types";
 import SkillCard from "@/components/sections/skills/SkillCard";
-import { SkillCardSkeleton } from "@/components/SkeletonLoader";
+import { SkillCardSkeleton } from "@/components/sections/skills/SkillCardSkeleton";
 
 interface SkillsSectionProps {
   skills: Skill[];

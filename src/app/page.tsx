@@ -40,7 +40,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <HeroSection />
+      <HeroSection loading={loading} />
       <SkillsSection skills={skills} loading={loading} />
       <BiographySection experiences={experiences} loading={loading} />
       <ProjectsSection projects={projects} loading={loading} />

@@ -2,7 +2,7 @@
 
 import { Experience } from "@/types";
 import ExperienceCard from "@/components/sections/biography/ExperienceCard";
-import { ExperienceCardSkeleton } from "@/components/SkeletonLoader";
+import { ExperienceCardSkeleton } from "@/components/sections/biography/ExperienceCardSkeleton";
 
 interface BiographySectionProps {
   experiences: Experience[];

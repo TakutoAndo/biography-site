@@ -2,7 +2,7 @@
 
 import { Project } from "@/types";
 import ProjectCard from "@/components/sections/projects/ProjectCard";
-import { ProjectCardSkeleton } from "@/components/SkeletonLoader";
+import { ProjectCardSkeleton } from "@/components/sections/projects/ProjectCardSkeleton";
 
 interface ProjectsSectionProps {
   projects: Project[];
