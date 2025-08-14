@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "フロントエンド開発",
+    "description": "React, Next.js, TypeScriptを使用したモダンなWebアプリケーション開発",
+    "iconType": "code",
+    "category": "frontend",
+    "level": "expert"
+  },
+  {
+    "id": 2,
+    "title": "バックエンド開発", 
+    "description": "Node.js, Express, PostgreSQLを使用したサーバーサイド開発",
+    "iconType": "server",
+    "category": "backend",
+    "level": "advanced"
+  },
+  {
+    "id": 3,
+    "title": "開発ツール",
+    "description": "Git, Docker, CI/CDを使用した効率的な開発環境の構築",
+    "iconType": "terminal",
+    "category": "devops",
+    "level": "intermediate"
+  }
+] 

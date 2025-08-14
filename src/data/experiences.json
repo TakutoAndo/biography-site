@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "シニアフロントエンドエンジニア",
+    "company": "株式会社テック",
+    "period": "2020年 - 現在",
+    "description": [
+      "大規模ECサイトのフロントエンド開発を担当",
+      "パフォーマンス最適化により、ページロード時間を50%削減",
+      "チームリーダーとして5名のエンジニアをマネジメント"
+    ],
+    "technologies": ["React", "Next.js", "TypeScript", "AWS"],
+    "achievements": [
+      "月間PV 1000万のサイトを運用",
+      "Core Web Vitalsスコア90%以上を達成"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "フロントエンドエンジニア",
+    "company": "スタートアップ株式会社",
+    "period": "2018年 - 2020年",
+    "description": [
+      "Reactを使用したWebアプリケーションの開発",
+      "ユーザー体験の改善とUI/UXデザインの実装",
+      "モバイル対応のレスポンシブデザインの実装"
+    ],
+    "technologies": ["React", "Redux", "Sass", "Firebase"],
+    "achievements": [
+      "ユーザー満足度を30%向上",
+      "モバイル対応により利用者数2倍増"
+    ]
+  }
+] 

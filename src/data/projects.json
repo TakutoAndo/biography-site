@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "ECサイトリニューアル",
+    "description": "既存のECサイトをNext.jsとTypeScriptを使用してリニューアル",
+    "imageUrl": "/project1.jpg",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "link": "https://example.com/project1",
+    "status": "completed",
+    "duration": "6ヶ月",
+    "role": "フロントエンドリード",
+    "highlights": [
+      "パフォーマンス50%向上",
+      "SEOスコア95点達成",
+      "モバイル対応完全実装"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "社内管理システム",
+    "description": "ReactとNode.jsを使用した社内業務管理システムの開発",
+    "imageUrl": "/project2.jpg",
+    "technologies": ["React", "Node.js", "PostgreSQL"],
+    "link": "https://example.com/project2",
+    "status": "completed",
+    "duration": "4ヶ月",
+    "role": "フルスタック開発者",
+    "highlights": [
+      "業務効率30%改善",
+      "ユーザー満足度90%以上",
+      "ゼロダウンタイム運用"
+    ]
+  }
+] 
