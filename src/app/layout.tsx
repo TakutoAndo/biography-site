@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "プロフィールサイト",
-  description: "転職活動用のプロフィールサイト",
+  title: "Takuto Ando - Biography",
+  description: "職務経歴とスキルセット紹介",
 };
 
 export default function RootLayout({
